@@ -72,3 +72,9 @@ footer {
 footer p {
     font-size: 1em;
 }
+
+.dropdown {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
